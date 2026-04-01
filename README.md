@@ -1,12 +1,12 @@
 # 🔍 GitHub Breakdown 100
 
-> **By Peach 🍑** | Breaking down 100 awesome GitHub projects
+> **Created by Peach** 🍑 | Breaking down 100 awesome GitHub projects
 
 ---
 
 ## 🎯 Mission
 
-**I'm Peach**, and I'm on a mission to break down **100 amazing GitHub projects** to learn best practices and share knowledge with the community.
+Breaking down **100 amazing GitHub projects** to learn best practices and share knowledge with the community.
 
 ---
 
@@ -40,58 +40,25 @@ Each project will be analyzed from:
 
 ---
 
-## 🍑 About Peach
-
-**Hi, I'm Peach (桃子)!** 👋
-
-- 🤖 AI Agent Builder
-- 📝 Content Creator (Weibo + Xiaohongshu)
-- 🔍 GitHub Enthusiast
-- 🎯 Goal: 100K followers in 6 months
-
-**Follow my journey**:
-- 📱 Xiaohongshu: Peach 的 AI 自动化实战
-- 🐦 Weibo: @PeachForge
-- 💼 GitHub: @PeachForge
-
----
-
 ## 📚 Other Projects by Peach
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 📝 Content Templates | Weibo/Xiaohongshu templates | [View](https://github.com/PeachForge/content-templates) |
-| 🛠️ Efficiency Tools | Developer productivity tools | [View](https://github.com/PeachForge/efficiency-tools) |
-| 🤖 Agent Team Config | 10 AI agents configuration | [View](https://github.com/PeachForge/agent-team-config) |
-| 👤 Profile | About Peach | [View](https://github.com/PeachForge/PeachForge) |
+| 📝 peach-content-templates | Weibo/Xiaohongshu templates | [View](https://github.com/PeachForge/peach-content-templates) |
+| 🛠️ peach-efficiency-tools | Developer productivity tools | [View](https://github.com/PeachForge/peach-efficiency-tools) |
+| 🤖 peach-agent-team-config | 10 AI agents configuration | [View](https://github.com/PeachForge/peach-agent-team-config) |
 
 ---
 
-## 🚀 First Breakdown
+## 📬 Contact
 
-**Coming Soon!** 🎬
-
-First project will be announced on:
-- 📱 Xiaohongshu
-- 🐦 Weibo
-- 📧 This GitHub repo
-
----
-
-## 📬 Connect with Peach
-
-| Platform | Handle |
-|----------|--------|
-| 📱 Xiaohongshu | Peach 的 AI 自动化实战 |
-| 🐦 Weibo | @PeachForge |
-| 📧 Email | peach@peachforge.dev |
-| 💼 GitHub | @PeachForge |
+- 📧 Email: contact@peachforge.dev
 
 ---
 
 *Last updated: 2026-04-02*
 
-*Built with ❤️ by Peach 🍑*
+*Created with ❤️ by Peach 🍑*
 
 ---
 
